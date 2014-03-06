@@ -1,1 +1,2 @@
 documentando release 0.2
+finalizando documentacao da release 0.2
