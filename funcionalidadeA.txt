@@ -5,3 +5,5 @@ desenvolvendo funcionalidade A
 finalizando funcionalidade A
 
 corrigindo bug 001 - Cezar
+
+finalizando correcao do bug 002 - Cezar
