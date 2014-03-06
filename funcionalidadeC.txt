@@ -8,3 +8,5 @@ Outra Alteracao na funcionalidade C - Cezar
 
 corrigindo bug 001 - Cezar
 tbm estou corrigindo - Fabio
+
+corrigindo bug 002 - Cezar
