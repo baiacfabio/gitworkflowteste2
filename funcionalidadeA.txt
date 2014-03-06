@@ -3,3 +3,5 @@ funcionalidade A
 desenvolvendo funcionalidade A
 
 finalizando funcionalidade A
+
+corrigindo bug 001 - Cezar

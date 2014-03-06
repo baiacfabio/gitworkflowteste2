@@ -5,3 +5,5 @@ Iniciando funcionalidade C - baiacfabio@gmail.com
 Alteracoes na funcionalidade C - Cezar
 
 Outra Alteracao na funcionalidade C - Cezar
+
+corrigindo bug 001 - Cezar
